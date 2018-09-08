@@ -1,0 +1,8 @@
+# nodejs
+node_modules/
+npm-debug.log
+yard-error.log
+
+# project
+dist/
+env.js
